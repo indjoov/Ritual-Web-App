@@ -60,4 +60,4 @@ The site is a **single HTML file** — deploy by uploading `index.html` to any s
 ## 👤 Built by
 
 **Niki Indjov** — Musician · Developer · Berlin  
-[craftaudio.dev](https://craftaudio.dev) · [github.com/nikiiindjov](https://github.com/nikiiindjov)
+[craftaudio.dev](https://craftaudio.dev) · [github.com/nikiiindjov](https://github.com/indjoov)
