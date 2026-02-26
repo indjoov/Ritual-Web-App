@@ -1,7 +1,5 @@
 # INDJOOV — Official Band Website
 
-![Indjoov](https://indjoov.pages.dev/)
-
 Official website for **Indjoov** — a Berlin-based psychedelic doom and ritual rock duo.
 
 ## 🌐 Live
